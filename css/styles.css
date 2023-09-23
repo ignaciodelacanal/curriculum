@@ -14,7 +14,16 @@ justify-content: center;
 .h2{text-align: center;}
 .idio{text-align: center;}
 .soft{text-align: center;}
-.btn{text-align: center;padding-top:15px;padding-bottom: 15px; }
+.btn{text-align: center;}
+.btn2{color:rgb(#f0f0f3);text-align: center;
+  padding-top:10px;padding-bottom: 10px;
+  border-radius: 25px;
+  width: 130px ;
+  height: 40px;
+  border-style:solid;border-color:#f0f0f3;
+  font:arial;font-size:large;
+  background-color:rgb(45, 143, 176);
+  }
  .box-2 {
     background-color:rgb(45, 143, 176);
      width: 300px;
@@ -29,3 +38,13 @@ justify-content: center
 .puesto{text-align: center;}
 .exp{text-align: center;}
 .form{text-align: center;}
+.hide{display:none;}
+.show{display:block;}
+.ancla{text-align: center;}
+.ul{list-style: none;}
+
+
+
+
+
+
