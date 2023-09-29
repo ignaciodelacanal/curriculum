@@ -15,14 +15,15 @@ justify-content: center;
 .idio{text-align: center;}
 .soft{text-align: center;}
 .btn{text-align: center;}
-.btn2{color:rgb(#f0f0f3);text-align: center;
-  padding-top:10px;padding-bottom: 10px;
+.btn2 {color:rgb(#f0f0f3);text-align:center;
+  padding-top:10px; padding-bottom: 20px;
   border-radius: 25px;
   width: 130px ;
   height: 40px;
-  border-style:solid;border-color:#f0f0f3;
+  border-style:solid ; border-color:#f0f0f3;
   font:arial;font-size:large;
   background-color:rgb(45, 143, 176);
+  margin-bottom: 15px;
   }
  .box-2 {
     background-color:rgb(45, 143, 176);
@@ -40,8 +41,7 @@ justify-content: center
 .form{text-align: center;}
 .hide{display:none;}
 .show{display:block;}
-.ancla{text-align: center;}
-.ul{list-style: none;}
+.ancla{text-align: center; margin-top:20px ;}
 
 
 
